@@ -9,6 +9,8 @@
 #include <pcl/io/pcd_io.h>
      
 int user_data;
+
+float sample = 0; //test change
      
 void 
 viewerOneOff (pcl::visualization::PCLVisualizer& viewer)
